@@ -9,3 +9,7 @@ juices,
 fruits,
 butter,
 
+Beans,
+double pizza,
+
+Final recipes
